@@ -1,0 +1,9 @@
+body{background-color: rgb(0, 0, 0);
+color: antiquewhite;}
+p{color: crimson;}
+a{color: rgb(246, 255, 120);
+text-decoration: none;
+background-color: rgb(118, 70, 252);}
+ul{list-style: lower-greek;}
+img{border-radius: 50%;} 
+.horse{border-radius: 10%;}
